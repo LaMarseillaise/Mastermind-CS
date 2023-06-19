@@ -1,0 +1,30 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.userprefs
+*.suo
+*.csproj.user
+
+# NuGet packages
+packages/
+
+# Visual Studio files
+.vs/
+*.sln
+*.csproj
+*.csproj.user
+*.csproj.vspscc
+*.sln.docstates
+
+# Resharper files
+_ReSharper*/
+
+# macOS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
